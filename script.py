@@ -59,7 +59,7 @@ You can't add me to your Group😉.</i>
 """
 
 
-    ABOUT_MSG = """👉)𝕄𝕪 ℕ𝕒𝕞𝕖 : <b><a href='https://.t.me/@Akkachi_bot/'>Sunnyleone Bot</a></b>
+    ABOUT_MSG = """👉)𝕄𝕪 ℕ𝕒𝕞𝕖 : <b><a href='https://.t.me/Akkachi_bot/'>Sunnyleone Bot</a></b>
 
 👉)𝕄𝕪 ℂ𝕣𝕖𝕒𝕥𝕠𝕣 : <a href='https://t.me/naughty_nonsense/'>Naughty Nonsense</a>
 
