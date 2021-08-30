@@ -38,7 +38,7 @@ You can't add me to your Group😉.</i>
 <code>/viewfilters</code>  -  List all filters in chat
 
 
-<b>Connection Commands;</b>
+<u>ℂ𝕠𝕟𝕟𝕖𝕔𝕥𝕚𝕠𝕟 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤</u>
 
 <code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
 <code>/connect</code> in groups.
