@@ -1,19 +1,19 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hy🙋🏻‍♀️</b> {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+<i>I'm</i> <b>@freakersfilmy</b> <i>filter bot.</i>
+<i>Sorry I will not join other groups.
+You can't add me to your Group😉.</i>
 
-See <i>/help</i> for commands and more details.</b>
+<b>See <i>/help</i> for commands and more details.</b>
+
+@freakersfilmy
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
-
-
-<b>Basic Commands;</b>
+𝔹𝕒𝕤𝕚𝕔 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤 (𝕠𝕟𝕝𝕪 𝔸𝕕𝕞𝕚𝕟𝕤)
 
 /start - Check if I'm alive!
 /help - Command help
@@ -48,16 +48,19 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<i>@freakersfilmy</i>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """👉)𝕄𝕪 ℕ𝕒𝕞𝕖 : <b>Sunnyleoane Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+👉)𝕄𝕪 ℂ𝕣𝕖𝕒𝕥𝕠𝕣 : @naughty_nonsense
 
-⭕️<b>Language :</b> <code>Python3</code>
+👉)𝕄𝕪 𝔾𝕣𝕠𝕦𝕡 : <a href='https://t.me/freakersfilmy/'>Freakers Filmy</a>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+👉)𝕄𝕪 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 : <a href='https://t.me/freakersmovies/'>Freakers Movies</a>
 
+👉)𝕊𝕖𝕣𝕚𝕖𝕤 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 : <a href='https://t.me/freakersseries/'>Freakers Series</a>
+
+@freakersfilmy
 """
