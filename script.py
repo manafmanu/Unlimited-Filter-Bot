@@ -15,7 +15,7 @@ You can't add me to your Group😉.</i>
     HELP_MSG = """
 <u>🤔 𝙃𝙤𝙬 𝙏𝙤 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 ...?💡</u>
 
-👉 <b><i>Send a Movie name to @freakersfilmy official group</i>
+👉 <b><i>Send a Movie name to @freakersfilmy official group</b></i>
 
 👉 <b><i>Select the file you like And click it</b></i>
 
