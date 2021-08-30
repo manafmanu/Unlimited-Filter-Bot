@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy🙋🏻‍♀️</b> {},
 
-<i>I'm</i> <b>@freakersfilmy</b> <i>filter bot.</i>
+<i>I'm</i> 𝙉𝙖𝙮𝙖𝙣𝙨 <b>@freakersfilmy</b> <i>filter bot.</i>
 <i>Sorry I will not join other groups.
 You can't add me to your Group😉.</i>
 
@@ -59,7 +59,7 @@ You can't add me to your Group😉.</i>
 """
 
 
-    ABOUT_MSG = """👉)𝕄𝕪 ℕ𝕒𝕞𝕖 : <b><a href='https://t.me/Akkachi_bot/'>Sunnyleone Bot</a></b>
+    ABOUT_MSG = """👉)𝕄𝕪 ℕ𝕒𝕞𝕖 : <b><a href='https://t.me/Nayanthara_thebot/'>Nayans Bot</a></b>
 
 👉)𝕄𝕪 ℂ𝕣𝕖𝕒𝕥𝕠𝕣 : <a href='https://t.me/naughty_nonsense/'>Naughty Nonsense</a>
 
