@@ -17,9 +17,9 @@ You can't add me to your Group😉.</i>
 
 👉 <b><i>Send a Movie name to @freakersfilmy official group</i>
 
-👉 Select the file you like And click it
+👉 <b><i>Select the file you like And click it</b></i>
 
-👉 Once you reach the bot, press the</b></i> 𝙎𝙏𝘼𝙍𝙏 <b><i>button
+👉 <b><i>Once you reach the bot, press the</b></i> 𝙎𝙏𝘼𝙍𝙏 <b><i>button
 
 👉 സിനിമയുടെ പേര് ഒഫിഷ്യൽ ഗ്രൂപ്പിൽ ടൈപ്പ് ചെയ്യ്തു അയക്കുക
 
