@@ -6,7 +6,7 @@ class Script(object):
 <i>Sorry I will not join other groups.
 You can't add me to your Group😉.</i>
 
-<b>See <i>/help</i> for commands and more details.</b>
+<b>See <i>/help</i> for more details.</b>
 
 @freakersfilmy
 """
