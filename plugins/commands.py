@@ -247,8 +247,8 @@ async def help(client, message):
                     InlineKeyboardButton("𝔸𝔹𝕆𝕌𝕋 𝕄𝔼", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("𝕄𝕆𝕍𝕀𝔼𝕊", url="https://t.me/freakersmovies"),
-                    InlineKeyboardButton("𝕊𝔼ℝ𝕀𝔼𝕊", url="https://t.me/freakersseries")
+                    InlineKeyboardButton("𝕄𝕆𝕍𝕀𝔼𝕊", url="https://t.me/freakersmovie"),
+                    InlineKeyboardButton("𝕊𝔼ℝ𝕀𝔼𝕊", url="https://t.me/freakers_series")
                 ]
             ]
         ),
